@@ -1,0 +1,16 @@
+body {
+    background: url(ha.jpg) no-repeat;
+    background-size:cover;
+  }
+  
+  h1 {
+    color: rgb(216, 206, 218);
+    text-align: center;
+  }
+  
+  p {
+    color: rgb(22, 5, 5);
+    font-family:"Times New Roman", Times, serif;
+    text-align: center;
+    font-size: 20px;
+  }
