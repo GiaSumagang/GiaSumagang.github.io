@@ -1,0 +1,62 @@
+body {
+    margin: center;
+    padding: 0;
+    background: url(hua.jpg);
+    background-size: contain;
+}
+   .first {
+    text-align: center;
+    margin:auto;
+    padding: 20px;
+    margin-top: 90px;
+    width: 355px;
+    height: 520px;
+    padding: 50px;
+    background-color:rgba(0, 0, 0, 0.7) 
+}
+  .first img{
+    border-radius: px;
+    width: 350px;
+    height: 450px;
+  }
+  .first h1{
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+  }
+  .first h5{
+    font-size: 20px;
+    color: rgb(207, 192, 192);
+    letter-spacing: 3px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 50;
+  
+  }
+  img{
+    float: right;
+    border-radius: 10px;
+    width: 250px;
+    height:350px;
+    padding: right;
+  
+  }
+  .box{
+    margin: auto;
+    width: 700px;
+    height: 800px;
+    background-color:rgba(0, 0, 0, 0.7);
+    opacity: 0.6px;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(255, 248, 248);
+    font-family: 'Century Gothic',sans-serif,Arial;
+
+  }
+  .box p{
+    text-align: justify;
+    font-size: 15px;
+  }
+  
